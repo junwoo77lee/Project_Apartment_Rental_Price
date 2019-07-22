@@ -1,4 +1,12 @@
-# Apartments.com Scraper
+#### Forked from adinutzyc21/apartments-scraper and modified
+ - Apply the compatiability for Python 3.x
+ - Get rental price for bedroom type
+ - Get apartment size by bedroom type
+<br>
+
+
+### - Original Introduction -
+## Apartments.com Scraper
 
 Note: you can use this to create a CSV to (eventually, when I finish the code) import into the Compare App ([ideal-engine](https://github.com/adinutzyc21/ideal-engine), instance running [here](ideal-engine.herokuapp.com)).
 
